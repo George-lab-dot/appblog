@@ -16,6 +16,7 @@
 		"jenssegers/blade": "*",
 		"lulco/phoenix": "*",
 		"illuminate/database": "*"
+		
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
