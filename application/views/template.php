@@ -379,6 +379,7 @@
               <td>visual</td>
             </tr>
             <tr>
+            <tr>
               <td>1,014</td>
               <td>dashboard</td>
               <td>illustrative</td>
